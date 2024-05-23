@@ -1,0 +1,7 @@
+p#selektor { width: 1000px;
+    margin-left: auto; /* wyśrodkowanie */
+    margin-right: auto;
+    text-align: center;
+    background-color:rgba(0, 255, 149, 0.707)
+   }
+   
